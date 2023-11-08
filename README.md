@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @marmalino, Marta. 
+- 🌱 I’m currently learning trading algo.
